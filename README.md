@@ -52,5 +52,3 @@ Make sure you have Python installed along with the following libraries:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjaykarnati)
 
 ---
-
-You can modify the sections, add results and visualizations (e.g., screenshots), or clarify any points further based on the content of your notebook.
